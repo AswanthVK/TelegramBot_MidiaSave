@@ -1,0 +1,6 @@
+requests 
+selenium 
+urllib3 
+moviepy 
+pytube 
+python-telegram-bot
