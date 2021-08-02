@@ -18,7 +18,7 @@ twitter = ''
 formato = ''
 url =''
 chat_id = ''
-token = '1658321449:AAGb3CpSv8kz__V8c7ojtm3x5g2ePnoSWsY'
+TOKEN = 1658321449:AAGb3CpSv8kz__V8c7ojtm3x5g2ePnoSWsY
 ##############################################################################
 ################################################## Start Message #########################################
 def start(update, context):
